@@ -1,5 +1,13 @@
 # AngularCapacitorBoilerPlate
 
+## How to build the app
+
+1:- npx cap 
+2: npx cap add android
+3:- cd .\android\
+4:- .\gradlew clean
+5:- .\gradlew assembleRelease
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
 
 ## Development server
